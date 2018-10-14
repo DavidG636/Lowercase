@@ -15,10 +15,7 @@ textarea {
   display:block;
 }
 
-.btn-area {
-  width:100%;
-}
-
 button {
-  text-align:center;
+  display:block;
+  margin: 0 auto;
 }
